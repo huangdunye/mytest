@@ -42,5 +42,7 @@
         <property name="jedisPool">
             <ref bean="jedisWritePool" />
         </property>
+        <property>777777</property>
     </bean>
+    <bean>jghghghghgh</bean>
 </beans>
